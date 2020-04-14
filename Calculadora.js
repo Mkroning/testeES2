@@ -10,6 +10,8 @@ function mult(){
     //TODO: Implementar multiplicação
 }
 
-function div(){
+function div(a, b){
     //TODO: Implementar divisão
+    let res = (a/b);
+    console.log(res);
 }
