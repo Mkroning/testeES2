@@ -1,0 +1,135 @@
+    1  clear
+    2  exit
+    3  cd Documentos/faculdade/eng2/testeES2
+    4  clear
+    5  npm i -g gitmoji-cli
+    6  clear
+    7  ls
+    8  clear
+    9  git init
+   10  git flow init
+   11  code .
+   12  git clone https://github.com/Mkroning/testeES2.git
+   13  git flow feature start function-sum
+   14  sum
+   15  clear
+   16  sum
+   17  clear
+   18  ls
+   19  clear
+   20  index.js
+   21  clear
+   22  ls
+   23  index.js
+   24  clear
+   25  ls
+   26  clear
+   27  index.js
+   28  clear
+   29  sudo apt-get update
+   30  clear
+   31  console.log
+   32  clear
+   33  index.js
+   34  clear
+   35  ls
+   36  clear
+   37  testeES2
+   38  cd ..
+   39  clear
+   40  ls
+   41  clear
+   42  ls
+   43  soma
+   44  clear
+   45  soma
+   46  clear
+   47  CD ..
+   48  cd ..
+   49  clear
+   50  cd ..
+   51  cd testeES2
+   52  clear
+   53  exit
+   54  Calculadora.js
+   55  claer
+   56  clear
+   57  sum()
+   58  clear
+   59  sum
+   60  clear
+   61  function sum()
+   62  clera
+   63  clear
+   64  git flow feature finish function-sum
+   65  git flow feature start function-sub
+   66  git status
+   67  clear
+   68  git flow feature finish function-sub
+   69  clear
+   70  git flow feature start function-sum
+   71  git add .
+   72  clear
+   73  git add *
+   74  clear
+   75  git status
+   76  branches
+   77  clear
+   78  git branches
+   79  branch
+   80  clear
+   81  git flow feature finish function-sum
+   82  git status
+   83  clear
+   84  git flow feature start function-sub
+   85  git add *
+   86  clear
+   87  git flow feature finish function-sub
+   88  git status
+   89  clear
+   90  cd ..
+   91  exit
+   92  git clone https://github.com/Mkroning/testeES2.git
+   93  cd testeES2
+   94  clear
+   95  git flow init
+   96  cd ..
+   97  cd testeES2
+   98  gitmoji-l | less
+   99  gitmoji-l
+  100  clear
+  101  npm i -g gitmoji-cli
+  102  gitmoji
+  103  gitmoji -l
+  104  clear
+  105  code .
+  106* clear
+  107  git branch
+  108  git flow feature start sum
+  109  gitmoji -c
+  110  git log 
+  111  git flow feature finish function-sum
+  112  clear
+  113  git branch 
+  114  git flow feature finish sum
+  115  git flow feature star sub
+  116  git flow feature start sub
+  117  git add .
+  118  clear
+  119  ls
+  120  clear
+  121  gitmoji -c
+  122  git flow feature finish sub
+  123  git status
+  124  clear
+  125  git status 
+  126  clear
+  127  git flow release start 1.0.0
+  128  git flow release finish 1.0.0 
+  129  git status
+  130  git push
+  131  git push --set-upstream origin master
+  132  git push
+  133  git push origin --all
+  134  git branch
+  135* exit
