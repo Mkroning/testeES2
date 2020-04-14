@@ -1,9 +1,17 @@
-function sum(){
-    //TODO: Implementar soma
+function sum(sum1, sum2){
+
+    let count = sum1 + sum2;
+
+    console.log(count);
+    
 }
 
-function sub(){
-    //TODO: Implementar subtração
+function sub(sub1, sub2){
+    
+    let count = sub1 - sub2;
+
+    console.log(count);
+    
 }
 
 function mult(a, b){
