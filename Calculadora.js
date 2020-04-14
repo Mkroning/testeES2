@@ -1,5 +1,9 @@
-function sum(){
-    //TODO: Implementar soma
+function sum(sum1, sum2){
+
+    let count = sum1 + sum2;
+
+    console.log(count);
+    
 }
 
 function sub(){
