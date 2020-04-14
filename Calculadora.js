@@ -6,8 +6,12 @@ function sum(sum1, sum2){
     
 }
 
-function sub(){
-    //TODO: Implementar subtração
+function sub(sub1, sub2){
+    
+    let count = sub1 - sub2;
+
+    console.log(count);
+    
 }
 
 function mult(){
